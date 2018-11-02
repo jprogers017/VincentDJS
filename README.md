@@ -13,5 +13,5 @@
 * custom guild prefix
 * add more administrator only commands for moderation, MAYBE
 * create website
-* transfer logs from console to website
+* transfer logs from console/channel in my discord to website mentioned above
 * more upon request
