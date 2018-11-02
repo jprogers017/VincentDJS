@@ -1,6 +1,6 @@
 # Vincent
 #### Current Status: 
-	INCOMPLETE
+	INCOMPLETE - I'm busy with school and don't have time to work on Vincent right now!
 
 #### To-Do List:
 * add logs
